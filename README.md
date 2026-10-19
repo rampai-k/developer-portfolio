@@ -57,7 +57,7 @@ git push -u origin main
 
 Replace `YOUR-USERNAME` with the GitHub account name before adding the remote. Do not add secrets or credentials to this repository.
 
-**Repository URL:** `https://github.com/YOUR-USERNAME/developer-portfolio` (replace with the actual URL).
+**Repository URL:** `https://rampai-k.github.io/developer-portfolio/`
 
 ## Deploy with GitHub Pages
 
